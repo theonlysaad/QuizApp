@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="register">to register Click here</string>
+    <string name="quiz1">A cette intersection,je laisse la priorité à droite :</string>
+    <string name="quiz2">Le panneau de danger indique une succession de virages dont le 1er est :</string>
+    <string name="quiz4">En tant qu'automobiliste,vous devez être plus vigilant lorsque :</string>
+    <string name="quiz3">Avant de partir,je laisse tourner mon moteur pour qu'il monte en température :</string>
+    <string name="quiz5">En conduisant,je peux utiliser mon portable pour écrire un texto ou composer un numéro :</string>
+
+</resources>
